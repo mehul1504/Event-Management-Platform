@@ -141,14 +141,10 @@ event-manager/
 │   ├── cache.js
 │
 ├── .gitignore
-├── index.js
+├── app.js
 ├── package.json
 └── README.md
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
